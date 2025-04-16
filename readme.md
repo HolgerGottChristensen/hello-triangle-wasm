@@ -1,5 +1,7 @@
 # Compile the example
 
+![Showcase example](Showcase.png)
+
 ## Install the target
 `rustup target add wasm32-unknown-unknown `
 
